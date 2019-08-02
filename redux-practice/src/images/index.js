@@ -1,0 +1,16 @@
+export { default as anseongtangmyeon } from './anseongtangmyeon.jfif';
+export { default as buldalgbokk_eummyeon } from './buldalgbokk-eummyeon.jfif';
+export { default as chamkkaelamyeon } from './chamkkaelamyeon.jfif';
+export { default as dosilag } from './dosilag.jfif';
+export { default as ganjjamppong } from './ganjjamppong.jfif';
+export { default as jinjjamppong } from './jinjjamppong.jfif';
+export { default as jinlamyeon } from './jinlamyeon.jfif';
+export { default as jjajjaloni } from './jjajjaloni.jfif';
+export { default as jjapageti } from './jjapageti.jfif';
+export { default as kkokkomyeon } from './kkokkomyeon.jfif';
+export { default as neoguli } from './neoguli.jfif';
+export { default as paldobibimmyeon } from './paldobibimmyeon.jfif';
+export { default as sam_yanglamyeon } from './sam-yanglamyeon.jfif';
+export { default as seunaegmyeon } from './seunaegmyeon.jfif';
+export { default as sinlamyeon } from './sinlamyeon.jfif';
+export { default as wangttukkeong } from './wangttukkeong.jfif';
